@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    background-image: url(https://img.elo7.com.br/product/zoom/FBCE34/adesivo-paisagem-praia-decorando-com-adesivos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: purple;
+}
+
+p {
+    font-weight: bold;
+    color: red;
+}
+
+#a1 {
+    color: blue;
+}
+
+.cor2 {
+    color: green;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 150px;
+}
+
+.conteudo {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+}
+
+.texto {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
